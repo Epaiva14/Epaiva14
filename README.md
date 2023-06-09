@@ -1,4 +1,5 @@
   Hi, I’m @Epaiva14
+  <br>
  👀 I’m interested in gaming and always practicing new things to evolve my skills!
  🌱 I’m currently studying software engineering through a coding bootcamp.
  📫 How to reach me: my linkedin link is on my profile page!
