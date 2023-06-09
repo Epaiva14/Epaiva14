@@ -1,3 +1,4 @@
+  <p align="center">
   Hi, I’m @Epaiva14
   <br>
  👀 I’m interested in gaming and always practicing new things to evolve my skills!
@@ -17,6 +18,11 @@
 [![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/Epaiva14)
 [![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)](https://github.com/Epaiva14)
 
+### Tests
+[![jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)](https://github.com/Epaiva14)
+
+### Operating Systems
+[![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://github.com/Epaiva14)
 <!---
 Epaiva14/Epaiva14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
